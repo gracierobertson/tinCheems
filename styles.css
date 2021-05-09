@@ -1,0 +1,162 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bold;
+
+}
+
+h2{
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding: 0 0 2.5rem 0;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0%
+}
+
+.header-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-point{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+.feature-detail{
+  color: #8f8f8f;
+}
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#testimonial-carousel{
+    padding: 7% 15%;
+}
+
+/* Press */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  padding: 20%;
+  width: 50%;
+}
+
+/* Pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.price-heading{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+
+.price-sub-heading{
+  text-align: center;
+  color: #696969;
+  padding-top: 2px;
+}
+
+/* Call to Action */
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 60px 0;
+}
+
+.cta-heading{
+  font-size: 2.5rem;
+  color: white;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+  padding: 40px;
+}
+
+.social-icon{
+margin: 20px 10px;
+}
